@@ -1,5 +1,6 @@
-criar automaticamente 
-nome: criptomoeda
+criar automaticamente: criptomoeda
+restaurar
+nome: terrareal
 sobre: Sugira uma ideia para este projetotoken
 título: 'Criptomoeda terrareal'
 marcadores: 'criptomoeda'
