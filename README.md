@@ -2,7 +2,7 @@ README.mdautocreateciptodaterrareal
 echo "# Criptomoedareal" >> README.md
 criar automaticamenteciptmoeda
 git init
-r
+comando: automaticcryptoeda
 git add README.md
 c
 git commit -m "primeiro commit" autocriaçãoptomoeda
