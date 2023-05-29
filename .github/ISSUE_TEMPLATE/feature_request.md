@@ -1,6 +1,6 @@
 --
-nome: pedido de recorrência
-sobre: Sugira uma ideia para este projet
+nome: pedido de c
+sobre: Sugira uma ideia para este projetotoken
 título: 'Criptomoeda terrareal'
 labels: ''
 cessionários: ''
