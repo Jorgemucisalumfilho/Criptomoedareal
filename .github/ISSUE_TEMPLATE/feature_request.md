@@ -1,22 +1,22 @@
-criar automaticamente: criptomoeda
-restaurar
+ criar automaticamente criptomoeda terrareal 
+restaurar configurar 
 nome: terrareal
-sobre: Sugira uma ideia para este projetotoken
+sobre: Sugira uma ideia para este projeto token
 título: 'Criptomoeda terrareal'
 marcadores: 'criptomoeda'
 cessionários: ''
 ocorrência automática
 ---
-t
-**Sua solicitação de recurso está relacionada a um problema? Por favor, descreva.**
+rum:criptomoeda 
+Sua solicitação de recurso está relacionada a um problema? autocreate 
 Uma descrição clara e concisa de qual é o problema. Ex. Sempre fico frustrado quando [. criar automaticamente criptomoeda..]
-
-**Describe the solution you'd like**
+formatscreate criptomoeda 
+Describe the solution you'd like
 Uma descrição clara e concisa do que você quer que aconteça.token
-
-**Descreva as alternativas que você considerou**
+criptomoeda 
+Descreva as alternativas que você considerou
 Uma descrição clara e concisa de todas as soluções ou recursos alternativos que você considerou.
-a
-**Contexto adicionalt**
+autocreate criptomoeda 
+Contexto adicionalt
 Adicione qualquer outro contexto ou captura de tela sobre a solicitação de recurso aqui.
-autocracia cripto Criptomoedaterrareal 
+autocreate Criptomoeda terrareal 
