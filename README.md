@@ -1,6 +1,6 @@
 # Criptomoedareal
 echo "# Criptomoedareal" >> README.md
-
+criar automaticamenteciptmoeda
 git init
 
 git add README.md 
