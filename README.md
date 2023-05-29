@@ -14,3 +14,4 @@ git remoto adicionar origem
 automaticamente otimizado
 descansar
 git push - sua origem principal
+roteiroautocriarcriptmoeda
