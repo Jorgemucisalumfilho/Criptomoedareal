@@ -4,14 +4,14 @@ sobre: Sugira uma ideia para este projet
 título: 'Criptomoeda terrareal'
 labels: ''
 cessionários: ''
-ocorrência automáticat
+ocorrência automática
 ---
-
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [. autocreate criptomoeda..]
+t
+**Sua solicitação de recurso está relacionada a um problema? Por favor, descreva.**
+Uma descrição clara e concisa de qual é o problema. Ex. Sempre fico frustrado quando [. criar automaticamente criptomoeda..]
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Uma descrição clara e concisa do que você quer que aconteça.token
 
 **Descreva as alternativas que você considerou**
 Uma descrição clara e concisa de todas as soluções ou recursos alternativos que você considerou.
