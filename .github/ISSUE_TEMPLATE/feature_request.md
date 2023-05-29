@@ -17,4 +17,5 @@ Uma descrição clara e concisa do que você quer que aconteça.token
 Uma descrição clara e concisa de todas as soluções ou recursos alternativos que você considerou.
 a
 **Contexto adicionalt**
-Add any other context or screenshots about the feature request here.
+Adicione qualquer outro contexto ou captura de tela sobre a solicitação de recurso aqui.
+autocracia cripto Criptomoedaterrareal 
