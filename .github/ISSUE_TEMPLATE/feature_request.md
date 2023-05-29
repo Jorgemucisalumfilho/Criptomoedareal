@@ -1,5 +1,5 @@
 --
-nome: pedido de c
+nome: criptomoeda 
 sobre: Sugira uma ideia para este projetotoken
 título: 'Criptomoeda terrareal'
 labels: ''
