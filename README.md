@@ -1,7 +1,7 @@
 # Criptomoedareal
-echo "# Criptomoedareal" >> README.md 
+echo "# Criptomoedareal" >> README.md
 
-git init 
+git init
 
 git add README.md 
 
@@ -9,6 +9,6 @@ git commit -m "first commit"
 
 git branch -M main 
 
-git remote add origin https://github.com/Jorgemucisalumfilho/Criptomoedareal.git
+git remote add origin https://github.com/Jorgemucisalumfilho/Criptomoedaterrareal 
 
- git push - sua origem principal
+git push - sua origem principal
