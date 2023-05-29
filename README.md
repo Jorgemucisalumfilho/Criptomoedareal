@@ -1,15 +1,15 @@
- autocreate ciptomoeda terrareal
+ (autocreate ciptomoeda) nome:terrareal
 echo "# Criptomoeda terrareal" >> README.md
-criar automaticamentecriptmoeda
+criar automaticamente criptmoeda
 git init
-comando: automaticcryptomoeda
+comando:automatic cryptomoeda
 git add README.md
-c
+formatscreate:criptomoeda 
 git commit -m "primeiro commit" autocriação criptomoeda
-r
+rum:autocreate 
 git ramo -M principal autocreate criptomoeda 
-Rum: parâmetro
-rum: formatcreat 
+Rum:parâmetro
+rum:formatcreat 
 git remoto adicionar origem
 automaticamente otimizado
 descansar
