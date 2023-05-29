@@ -1,8 +1,8 @@
---
-nome: criptomoeda 
+criar automaticamente 
+nome: criptomoeda
 sobre: Sugira uma ideia para este projetotoken
 título: 'Criptomoeda terrareal'
-labels: ''
+marcadores: 'criptomoeda'
 cessionários: ''
 ocorrência automática
 ---
