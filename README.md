@@ -9,6 +9,7 @@ git commit -m "first commit"
 
 git branch -M main 
 
-git remote add origin https://github.com/Jorgemucisalumfilho/Criptomoedaterrareal 
+git remoto adicionar origem
+automaticamente otimizado
 
 git push - sua origem principal
