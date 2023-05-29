@@ -1,4 +1,4 @@
-# Criptomoedareal
+README.md
 echo "# Criptomoedareal" >> README.md
 criar automaticamenteciptmoeda
 git init
